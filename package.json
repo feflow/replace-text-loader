@@ -1,0 +1,28 @@
+{
+  "name": "replace-text-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for replacing content text.",
+  "main": "lib/index.js",
+  "scripts": {
+    "commitmsg": "validate-commit-msg",
+    "commit": "git-cz ",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpselvis/replace-text-loader"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "commitizen": "^2.3.0",
+    "conventional-changelog-cli": "^1.2.0",
+    "husky": "^0.13.1",
+    "validate-commit-msg": "^2.11.1"
+  }
+}
