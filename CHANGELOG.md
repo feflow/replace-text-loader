@@ -1,9 +1,10 @@
-<a name="0.1.0"></a>
-# [0.1.0](https://github.com/cpselvis/replace-text-loader/compare/v0.0.1...v0.1.0) (2017-12-21)
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/cpselvis/replace-text-loader/compare/v0.0.1...v0.2.0) (2017-12-21)
 
 
 ### Features
 
+* multiple regex rules support. ([edde9bb](https://github.com/cpselvis/replace-text-loader/commit/edde9bb))
 * single regex rule support ([798e7d2](https://github.com/cpselvis/replace-text-loader/commit/798e7d2))
 
 
