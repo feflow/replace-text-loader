@@ -1,6 +1,6 @@
 {
   "name": "replace-text-loader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A webpack loader for replacing content text.",
   "main": "lib/index.js",
   "scripts": {
