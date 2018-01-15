@@ -1,3 +1,13 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/cpselvis/replace-text-loader/compare/v0.2.0...v0.2.1) (2018-01-15)
+
+
+### Features
+
+* 兼容2.x的webpack版本. ([345aec1](https://github.com/cpselvis/replace-text-loader/commit/345aec1))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/cpselvis/replace-text-loader/compare/v0.0.1...v0.2.0) (2017-12-21)
 
